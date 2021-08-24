@@ -1,0 +1,8 @@
+__pycache__
+venv*
+content/
+staging/
+output/
+Makefile
+publishconf.py
+tasks.py
