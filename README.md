@@ -25,7 +25,9 @@
 
 - The Guardian https://www.theguardian.com/international
 - The Atlantic https://www.theatlantic.com/world/
+
 ### Climate 
 
 - https://www.carbonbrief.org/
+- https://klimaraadet.dk/da
 
